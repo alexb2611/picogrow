@@ -1,0 +1,5 @@
+{
+  "dry_freq": 5.0,
+  "wet_freq": 25.0,
+  "_note": "This is a sample config with typical values. Run calibration to set YOUR values!"
+}
