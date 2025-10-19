@@ -8,7 +8,8 @@ A complete MicroPython project for monitoring plant soil moisture using Pimoroni
 ![Hardware](https://img.shields.io/badge/hardware-Pico_2W-red)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-Created by **Alex** • Bramford, Ipswich, UK • October 2025. #builtwithclaude
+Created by **Alex** • Bramford, Ipswich, UK • October 2025. 
+#builtwithclaude
 
 ---
 
